@@ -15,7 +15,7 @@ To install this bookmarklet:
 
 * tap the bookmarklet
 * if that doesn't remove the wall, tap the "TRY AGAIN" button in the upper-right corner
-* if that doesn't remove the wall, we're out of luck ¯\_(ツ)_/¯
+* if that doesn't remove the wall, we're out of luck ¯\\\_(ツ)_/¯
 * to revert all changes, refresh the page
 
 ## How it works
